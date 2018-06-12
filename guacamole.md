@@ -5,3 +5,4 @@
 
 
 # instructions
+remove seed and put in bowl
